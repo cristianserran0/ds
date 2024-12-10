@@ -1,3 +1,3 @@
 # ds
 
-Repository for Cristian's own DS (to be used on cristianserrano.ar as a testing ground).
+Repository for Cristian's own design system, to be used on cristianserrano.ar as a testing ground.
